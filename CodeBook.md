@@ -12,7 +12,7 @@ Each measurement is of the triaxial acceleration from the accelerometer (total a
 
 ##Alterations to data
 
-Datasets were combined to facilitate analysis
+Datasets were combined to facilitate analysis.
 
 Some column names were changed. These were either altered from an unnamed header to a descriptive one, or duplicated column names were given a number as a prefix.
 
